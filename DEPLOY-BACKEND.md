@@ -45,7 +45,7 @@ Use the search bar to find the repository you want to deploy, once you find it, 
 
 Here you need to add some config about how to run your app, they are all very straightforward, but here is an example of how it should look like:
 
-<img src="../media/deploy-config.png">
+<img src="./media/deploy-config.png">
 
 Content of the image:
 
@@ -67,7 +67,7 @@ Once you filled up all these fields, scroll down and choose a plan, you probably
 
 Finally, click on the **Advanced** button, you need to add one environment variable, the one with the link to the database.
 
-<img src="../media/env-variable.png" />
+<img src="./media/env-variable.png" />
 
 ```
 key = DATABASE_URL
