@@ -4,8 +4,9 @@ The goal of this tech assessment is to create a plant watering tracker. You want
 
 It's a single page full stack application, here you can have a general idea of it:
 
-Wireframe Example: https://kyn.ac/SCR-20230223-fpj.jpeg
-Database Example: https://kyn.ac/SCR-20230223-g0f.png
+> Wireframe Example: https://kyn.ac/SCR-20230223-fpj.jpeg
+
+> Database Example: https://kyn.ac/SCR-20230223-g0f.png
 
 ## Tech Stack
 
