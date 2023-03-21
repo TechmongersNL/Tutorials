@@ -8,6 +8,10 @@ It's a single page full stack application, here you can have a general idea of i
 
 > Database Example: https://kyn.ac/SCR-20230223-g0f.png
 
+## Submission
+
+- Create a private repository on GitHub and add `karlaevelize` as collaborator once you are done
+
 ## Tech Stack
 
 ### Frontend
